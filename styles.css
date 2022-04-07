@@ -1,0 +1,44 @@
+.container {
+    max-width: 515px;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.title {
+    height: 43px;
+width: 240px;
+left: 601px;
+top: 68px;
+border-radius: nullpx;
+}
+
+.email {
+height: 47px;
+width: 515;
+left: 0px;
+top: 22px;
+border-radius: 0px;
+}
+
+
+
+
+.password {
+    margin-top: 60ox;
+    width: 100%;
+    }
+
+.conection {
+width: 100%;
+margin-top: 27px;
+}
+
+
+.button {
+    margin-top: 15px;
+    padding: 10%;
+    width: 70px;
+    height: 40px;
+    background-color: black;
+}
